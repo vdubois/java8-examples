@@ -1,0 +1,19 @@
+Java 8 
+======= 
+:email: <dubois.vct@free.fr>
+:deckjs_theme: web-2.0
+:deckjs_transition: horizontal-slide
+:pygments:
+:pygments_style: native
+
+
+== Pourquoi Java 8 ?
+
+[incremental="true"]
+* Des nouveautés conséquentes
+** Programmation fonctionnelle
+** Gestion des architectures multi-coeurs
+** Nouvelles API (dates, ...)
+* Fin avril 2015, arrêt du support de Java 7
+* Cette version est sortie depuis mars 2014
+
