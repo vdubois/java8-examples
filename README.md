@@ -1,2 +1,2 @@
-# java8-workshop
-Java 8 workshop and examples
+# java8-examples
+Java 8 examples
