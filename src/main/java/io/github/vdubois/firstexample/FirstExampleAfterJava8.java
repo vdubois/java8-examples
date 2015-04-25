@@ -1,4 +1,4 @@
-package io.github.vdubois.chapter1;
+package io.github.vdubois.firstexample;
 
 import java.util.Arrays;
 import java.util.List;
